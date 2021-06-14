@@ -6,6 +6,7 @@ html, body {
 nav {
   background-color: rgb(50, 50, 50);
   padding: 1em;
+  overflow: hidden;
 }
 nav a {
   text-decoration: none;
