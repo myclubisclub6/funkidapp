@@ -18,7 +18,7 @@
             <h3>Cha Lua(Vietnamese Ham)</h3>
             <p>A delighting Vietnamese dish, Cha lua, also known as Vietnamese ham in Western cultures is commonly eaten with rice or a sort of soup known colloquiolly as bun rieu. Despite concerns regarding the boron content, Cha Lua is thought to be mostly healthly</p>
             <h3>Price: $0</h3>
-            <input type="button" name="choice" value="firstChoice">
+            <input type="button" name="choice" value="Pick">
           </div>
         </div>
         <div class="item">
@@ -27,7 +27,7 @@
             <h3>Cha Lua(Vietnamese Ham)</h3>
             <p>A delighting Vietnamese dish, Cha lua, also known as Vietnamese ham in Western cultures is commonly eaten with rice or a sort of soup known colloquiolly as bun rieu. Despite concerns regarding the boron content, Cha Lua is thought to be mostly healthly</p>
             <h3>Price: $0</h3>
-            <input type="button" name="choice" value="secondChoice">
+            <input type="button" name="choice" value="Pick">
           </div>
         </div>
         <div class="item">
@@ -36,7 +36,7 @@
             <h3>Cha Lua(Vietnamese Ham)</h3>
             <p>A delighting Vietnamese dish, Cha lua, also known as Vietnamese ham in Western cultures is commonly eaten with rice or a sort of soup known colloquiolly as bun rieu. Despite concerns regarding the boron content, Cha Lua is thought to be mostly healthly</p>
             <h3>Price: $0</h3>
-            <input type="button" name="choice" value="thirdChoice">
+            <input type="button" name="choice" value="Pick">
           </div>
         </div>
       </div>
