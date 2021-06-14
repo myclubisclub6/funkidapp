@@ -9,7 +9,7 @@
     <nav>
       <a href="https://www.google.com">Google</a>
       <a href="https://www.youtube.com/search?">Youtube Search</a>
-    <nav>
+    </nav>
     <section id="order">
       <div class="items">
         <div class="item">
