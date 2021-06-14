@@ -13,22 +13,26 @@
     <section id="order">
       <div class="items">
         <div class="item">
-          <img src="http://runawayrice.com/wp-content/uploads/2016/01/Steamed-Pork-Roll-Cha-Lua.jpg" width="100" height="100">
-          <h3>Cha Lua(Vietnamese Ham)</h3>
-          <p>A delighting Vietnamese dish, Cha lua, also known as Vietnamese ham in Western cultures in commonly eaten with rice or a sort of soup known colloquiolly as bun rieu. Despite concerns regarding the boron content, Cha Lua is thought to be mostly healthly</p>
-          <h3>Price: $0</h3>
+          <img src="http://runawayrice.com/wp-content/uploads/2016/01/Steamed-Pork-Roll-Cha-Lua.jpg">
+          <div class="item-text>
+            <h3>Cha Lua(Vietnamese Ham)</h3>
+            <p>A delighting Vietnamese dish, Cha lua, also known as Vietnamese ham in Western cultures in commonly eaten with rice or a sort of soup known colloquiolly as bun rieu. Despite concerns regarding the boron content, Cha Lua is thought to be mostly healthly</p>
+            <h3>Price: $0</h3>
+          </div>
         </div>
         <div class="item">
-          <img src="http://runawayrice.com/wp-content/uploads/2016/01/Steamed-Pork-Roll-Cha-Lua.jpg" width="100" height="100">
-          <h3>Cha Lua(Vietnamese Ham)</h3>
-          <p>A delighting Vietnamese dish, Cha lua, also known as Vietnamese ham in Western cultures in commonly eaten with rice or a sort of soup known colloquiolly as bun rieu. Despite concerns regarding the boron content, Cha Lua is thought to be mostly healthly</p>
-          <h3>Price: $0</h3>
+          <div class="item-text>
+            <h3>Cha Lua(Vietnamese Ham)</h3>
+            <p>A delighting Vietnamese dish, Cha lua, also known as Vietnamese ham in Western cultures in commonly eaten with rice or a sort of soup known colloquiolly as bun rieu. Despite concerns regarding the boron content, Cha Lua is thought to be mostly healthly</p>
+            <h3>Price: $0</h3>
+          </div>
         </div>
         <div class="item">
-          <img src="http://runawayrice.com/wp-content/uploads/2016/01/Steamed-Pork-Roll-Cha-Lua.jpg" width="100" height="100">
-          <h3>Cha Lua(Vietnamese Ham)</h3>
-          <p>A delighting Vietnamese dish, Cha lua, also known as Vietnamese ham in Western cultures in commonly eaten with rice or a sort of soup known colloquiolly as bun rieu. Despite concerns regarding the boron content, Cha Lua is thought to be mostly healthly</p>
-          <h3>Price: $0</h3>
+          <div class="item-text>
+            <h3>Cha Lua(Vietnamese Ham)</h3>
+            <p>A delighting Vietnamese dish, Cha lua, also known as Vietnamese ham in Western cultures in commonly eaten with rice or a sort of soup known colloquiolly as bun rieu. Despite concerns regarding the boron content, Cha Lua is thought to be mostly healthly</p>
+            <h3>Price: $0</h3>
+          </div>
         </div>
       </div>
       <button>Order</button>
