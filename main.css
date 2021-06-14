@@ -2,6 +2,7 @@ html, body {
   margin: 0;
   height: 100%;
   font-family: Arial;
+  text-align: center;
 }
 section {
   padding: 1em;
@@ -9,6 +10,12 @@ section {
 .items {
   display: flex;
   justify-content: center;
+}
+.item {
+  padding: 1em;
+  background-color: silver;
+  -webkit-box-shadow: 5px 11px 12px 5px rgba(0,0,0,0.19); 
+  box-shadow: 5px 11px 12px 5px rgba(0,0,0,0.19);
 }
 nav {
   background-color: rgb(50, 50, 50);
