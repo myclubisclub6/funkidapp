@@ -16,6 +16,7 @@ section {
   background-color: silver;
   -webkit-box-shadow: 5px 11px 12px 5px rgba(0,0,0,0.19); 
   box-shadow: 5px 11px 12px 5px rgba(0,0,0,0.19);
+  margin: 0.5em;
 }
 nav {
   background-color: rgb(50, 50, 50);
