@@ -1,9 +1,11 @@
 html, body {
   margin: 0;
   height: 100%;
+  font-family: Arial;
 }
 nav {
   background-color: rgb(50, 50, 50);
+  padding: 1em;
 }
 nav a {
   text-decoration: none;
