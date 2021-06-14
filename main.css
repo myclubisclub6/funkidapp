@@ -13,8 +13,8 @@ section {
 }
 .item {
   background-color: silver;
-  -webkit-box-shadow: 5px 11px 12px 5px rgba(0,0,0,0.19); 
-  box-shadow: 5px 11px 12px 5px rgba(0,0,0,0.19);
+  -webkit-box-shadow: 5px 6px 12px 5px rgba(0,0,0,0.19); 
+  box-shadow: 5px 5px 12px 5px rgba(0,0,0,0.19);
   margin: 0.5em;
 }
 .item img {
