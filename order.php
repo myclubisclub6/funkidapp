@@ -1,2 +1,2 @@
 <?php
-  echo "<h1>Order complete</h1>".$_POST['choice'];
+  echo "<h1>Order complete.".$_POST['choice']." Message</h1>";
